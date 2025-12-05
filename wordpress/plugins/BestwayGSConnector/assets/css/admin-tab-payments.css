@@ -1,0 +1,153 @@
+.gsc-payments-wrapper {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    margin-bottom: 25px;
+    border-left: 5px solid #0073aa;
+}
+
+.card h2,
+.card h3 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+.card h2 {
+    font-size: 24px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #f1f3f5;
+}
+
+.card h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    width: 200px;
+    padding: 15px 10px 15px 0;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.form-table td {
+    padding: 15px 10px;
+}
+
+.form-table input[type="text"],
+.form-table input[type="password"],
+.form-table input[type="url"],
+.form-table textarea,
+.form-table select {
+    padding: 10px 12px;
+    border: 2px solid #e9ecef;
+    border-radius: 6px;
+    font-size: 14px;
+    transition: border-color 0.3s ease;
+    background: #fff;
+    width: 100%;
+    max-width: 400px;
+}
+
+.form-table input[type="text"]:focus,
+.form-table input[type="password"]:focus,
+.form-table input[type="url"]:focus,
+.form-table textarea:focus,
+.form-table select:focus {
+    border-color: #3498db;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+}
+
+.form-table .large-text {
+    width: 100%;
+    max-width: 500px;
+}
+
+.form-table .regular-text {
+    width: 25em;
+}
+
+.form-table .description {
+    color: #6c757d;
+    font-size: 13px;
+    margin-top: 8px;
+}
+
+.form-table label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.form-table input[type="checkbox"] {
+    margin: 0;
+}
+
+.button {
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border: 1px solid #ddd;
+    background: #f8f9fa;
+    color: #495057;
+}
+
+.button-primary {
+    background: #0073aa;
+    color: white;
+    border-color: #0073aa;
+}
+
+.button-primary:hover {
+    background: #005a87;
+    border-color: #005a87;
+}
+
+.button-secondary {
+    background: #6c757d;
+    color: white;
+    border-color: #6c757d;
+}
+
+.button-secondary:hover {
+    background: #545b62;
+    border-color: #545b62;
+}
+
+#test-payment-result {
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+@media (max-width: 782px) {
+    .form-table th,
+    .form-table td {
+        display: block;
+        width: 100%;
+        padding: 10px 0;
+    }
+    
+    .form-table th {
+        padding-bottom: 5px;
+    }
+    
+    .form-table input[type="text"],
+    .form-table input[type="password"],
+    .form-table input[type="url"],
+    .form-table textarea,
+    .form-table select {
+        max-width: 100%;
+    }
+}

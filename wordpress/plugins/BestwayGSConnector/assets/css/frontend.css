@@ -1,0 +1,318 @@
+/* Основные стили для фронтенда */
+.gsc-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.gsc-section {
+    margin: 30px 0;
+    padding: 25px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.gsc-section-title {
+    margin: 0 0 25px 0;
+    color: #2c3e50;
+    font-size: 24px;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+}
+
+.gsc-alert {
+    padding: 15px;
+    border-radius: 6px;
+    margin: 15px 0;
+    border-left: 4px solid;
+}
+
+.gsc-alert-success {
+    background: #d4edda;
+    border-color: #28a745;
+    color: #155724;
+}
+
+.gsc-alert-warning {
+    background: #fff3cd;
+    border-color: #ffc107;
+    color: #856404;
+}
+
+.gsc-alert-error {
+    background: #f8d7da;
+    border-color: #dc3545;
+    color: #721c24;
+}
+
+.gsc-alert-info {
+    background: #d1ecf1;
+    border-color: #17a2b8;
+    color: #0c5460;
+}
+
+/* Кнопки */
+.gsc-btn {
+    display: inline-block;
+    padding: 12px 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.gsc-btn-primary {
+    background: linear-gradient(135deg, #3498db, #2980b9);
+    color: white;
+}
+
+.gsc-btn-primary:hover {
+    background: linear-gradient(135deg, #2980b9, #3498db);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+    color: white;
+}
+
+.gsc-btn-secondary {
+    background: #6c757d;
+    color: white;
+}
+
+.gsc-btn-secondary:hover {
+    background: #5a6268;
+    transform: translateY(-2px);
+    color: white;
+}
+
+.gsc-btn-success {
+    background: linear-gradient(135deg, #28a745, #218838);
+    color: white;
+}
+
+.gsc-btn-success:hover {
+    background: linear-gradient(135deg, #218838, #28a745);
+    transform: translateY(-2px);
+    color: white;
+}
+
+.gsc-btn-danger {
+    background: linear-gradient(135deg, #dc3545, #c82333);
+    color: white;
+}
+
+.gsc-btn-danger:hover {
+    background: linear-gradient(135deg, #c82333, #dc3545);
+    transform: translateY(-2px);
+    color: white;
+}
+
+.gsc-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none !important;
+}
+
+/* Формы */
+.gsc-form-group {
+    margin-bottom: 20px;
+}
+
+.gsc-form-label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #2c3e50;
+    font-size: 14px;
+}
+
+.gsc-form-input {
+    width: 100%;
+    padding: 12px 15px;
+    border: 2px solid #e9ecef;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+}
+
+.gsc-form-input:focus {
+    outline: none;
+    border-color: #3498db;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+}
+
+.gsc-form-select {
+    width: 100%;
+    padding: 12px 15px;
+    border: 2px solid #e9ecef;
+    border-radius: 6px;
+    font-size: 16px;
+    background: white;
+    cursor: pointer;
+}
+
+.gsc-form-textarea {
+    width: 100%;
+    padding: 12px 15px;
+    border: 2px solid #e9ecef;
+    border-radius: 6px;
+    font-size: 16px;
+    min-height: 120px;
+    resize: vertical;
+}
+
+.gsc-form-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.gsc-form-checkbox input {
+    width: 18px;
+    height: 18px;
+}
+
+/* Таблицы */
+.gsc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.gsc-table th {
+    background: #f8f9fa;
+    padding: 15px;
+    text-align: left;
+    font-weight: 600;
+    color: #2c3e50;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.gsc-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.gsc-table tbody tr:hover {
+    background: #f8f9fa;
+}
+
+/* Карточки */
+.gsc-card {
+    background: white;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    margin-bottom: 20px;
+    border: 1px solid #e9ecef;
+    transition: all 0.3s ease;
+}
+
+.gsc-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+}
+
+.gsc-card-title {
+    margin: 0 0 15px 0;
+    color: #2c3e50;
+    font-size: 18px;
+}
+
+/* Сетка */
+.gsc-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    margin-top: 20px;
+}
+
+/* Уведомления */
+.gsc-notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 15px 25px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+    z-index: 9999;
+    animation: slideIn 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.gsc-notification-success {
+    background: linear-gradient(135deg, #28a745, #218838);
+}
+
+.gsc-notification-error {
+    background: linear-gradient(135deg, #dc3545, #c82333);
+}
+
+.gsc-notification-warning {
+    background: linear-gradient(135deg, #ffc107, #e0a800);
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Загрузка */
+.gsc-loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.gsc-spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid #f3f3f3;
+    border-top: 3px solid #3498db;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+    .gsc-container {
+        padding: 10px;
+    }
+    
+    .gsc-section {
+        padding: 15px;
+    }
+    
+    .gsc-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .gsc-table {
+        display: block;
+        overflow-x: auto;
+    }
+    
+    .gsc-notification {
+        left: 10px;
+        right: 10px;
+        top: 10px;
+    }
+}

@@ -1,0 +1,270 @@
+.gsc-registration-form-wrapper {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.gsc-form-title {
+    text-align: center;
+    margin: 0 0 30px 0;
+    color: #2c3e50;
+    font-size: 24px;
+}
+
+.gsc-form-errors {
+    background: #f8d7da;
+    border: 1px solid #f5c6cb;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.gsc-error-message {
+    color: #721c24;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.gsc-form-row {
+    margin-bottom: 20px;
+}
+
+.gsc-form-label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #2c3e50;
+    font-size: 14px;
+}
+
+.gsc-field-hint {
+    margin-left: 5px;
+    color: #6c757d;
+    cursor: help;
+    display: inline-block;
+}
+
+.gsc-form-input {
+    width: 100%;
+    padding: 12px 15px;
+    border: 2px solid #e9ecef;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+}
+
+.gsc-form-input:focus {
+    outline: none;
+    border-color: #3498db;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+}
+
+.gsc-password-wrapper {
+    position: relative;
+}
+
+.gsc-toggle-password {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #6c757d;
+    padding: 5px;
+}
+
+.gsc-toggle-password:hover {
+    color: #3498db;
+}
+
+.gsc-password-strength {
+    margin-top: 10px;
+}
+
+.strength-meter {
+    height: 5px;
+    background: #e9ecef;
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+
+.strength-bar {
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+    border-radius: 3px;
+}
+
+.strength-label {
+    font-size: 12px;
+    color: #6c757d;
+    display: block;
+}
+
+.gsc-field-feedback {
+    margin-top: 5px;
+    font-size: 12px;
+    min-height: 18px;
+}
+
+.feedback-error {
+    color: #dc3545;
+}
+
+.feedback-success {
+    color: #28a745;
+}
+
+.gsc-checkbox-group {
+    display: flex;
+    align-items: flex-start;
+}
+
+.gsc-checkbox-label {
+    display: flex;
+    align-items: flex-start;
+    cursor: pointer;
+    font-size: 14px;
+    color: #495057;
+}
+
+.gsc-form-checkbox {
+    display: none;
+}
+
+.gsc-checkbox-custom {
+    width: 18px;
+    height: 18px;
+    border: 2px solid #ced4da;
+    border-radius: 3px;
+    margin-right: 10px;
+    position: relative;
+    flex-shrink: 0;
+    transition: all 0.2s ease;
+}
+
+.gsc-form-checkbox:checked + .gsc-checkbox-custom {
+    background: #3498db;
+    border-color: #3498db;
+}
+
+.gsc-form-checkbox:checked + .gsc-checkbox-custom::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 5px;
+    width: 6px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+.gsc-checkbox-text {
+    line-height: 1.4;
+}
+
+.gsc-terms-link {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.gsc-terms-link:hover {
+    text-decoration: underline;
+}
+
+.gsc-submit-btn {
+    background: linear-gradient(135deg, #3498db, #2980b9);
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    width: 100%;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.gsc-submit-btn:hover:not(:disabled) {
+    background: linear-gradient(135deg, #2980b9, #3498db);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+}
+
+.gsc-submit-btn:disabled {
+    background: #bdc3c7;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+.btn-spinner .spin {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.gsc-disabled-notice {
+    margin-top: 15px;
+    padding: 12px;
+    background: #fff3cd;
+    border: 1px solid #ffeaa7;
+    border-radius: 5px;
+}
+
+.gsc-notice-text {
+    margin: 0;
+    color: #856404;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.gsc-form-footer {
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 1px solid #e9ecef;
+    text-align: center;
+}
+
+.gsc-footer-text {
+    margin: 0;
+    color: #6c757d;
+    font-size: 14px;
+}
+
+.gsc-footer-link {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.gsc-footer-link:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .gsc-registration-form-wrapper {
+        padding: 20px;
+    }
+    
+    .gsc-form-title {
+        font-size: 20px;
+    }
+}

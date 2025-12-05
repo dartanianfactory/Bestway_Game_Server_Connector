@@ -1,0 +1,365 @@
+[2025-12-06 14:56:19] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Автозагрузчик инициализирован
+[2025-12-06 14:56:19] [SUCCESS] [IP: 127.0.0.1] [UserID: 0] [URI: ] Плагин активирован
+[2025-12-06 14:59:34] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Автозагрузчик инициализирован
+[2025-12-06 14:59:35] [SUCCESS] [IP: 127.0.0.1] [UserID: 0] [URI: ] Плагин активирован
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Автозагрузчик инициализирован
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Инициализация плагина GSConnector
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Загрузка компонентов плагина
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер логов загружен
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер ассетов загружен
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер админки загружен
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер AJAX загружен
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер магазина загружен
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер платежей загружен
+[2025-12-06 14:59:35] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Шорткоды зарегистрированы
+[2025-12-06 14:59:35] [SUCCESS] [IP: 127.0.0.1] [UserID: 0] [URI: ] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Автозагрузчик инициализирован
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Инициализация плагина GSConnector
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Загрузка компонентов плагина
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Контроллер логов загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Контроллер ассетов загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Контроллер админки загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Контроллер AJAX загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Контроллер магазина загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Контроллер платежей загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Шорткоды зарегистрированы
+[2025-12-06 14:59:42] [SUCCESS] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Автозагрузчик инициализирован
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Инициализация плагина GSConnector
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Загрузка компонентов плагина
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Контроллер логов загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Контроллер ассетов загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Контроллер админки загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Контроллер AJAX загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Контроллер магазина загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Контроллер платежей загружен
+[2025-12-06 14:59:42] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Шорткоды зарегистрированы
+[2025-12-06 14:59:42] [SUCCESS] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?interim-login=1&wp_lang=en_US] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Автозагрузчик инициализирован
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Инициализация плагина GSConnector
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Загрузка компонентов плагина
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер логов загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер ассетов загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер админки загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер AJAX загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер магазина загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер платежей загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Шорткоды зарегистрированы
+[2025-12-06 14:59:44] [SUCCESS] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Автозагрузчик инициализирован
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Инициализация плагина GSConnector
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Загрузка компонентов плагина
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер логов загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер ассетов загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер админки загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер AJAX загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер магазина загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер платежей загружен
+[2025-12-06 14:59:44] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Шорткоды зарегистрированы
+[2025-12-06 14:59:44] [SUCCESS] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Автозагрузчик инициализирован
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Инициализация плагина GSConnector
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Загрузка компонентов плагина
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер логов загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер ассетов загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер админки загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер AJAX загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер магазина загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер платежей загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Шорткоды зарегистрированы
+[2025-12-06 14:59:46] [SUCCESS] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Автозагрузчик инициализирован
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Инициализация плагина GSConnector
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Загрузка компонентов плагина
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер логов загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер ассетов загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер админки загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер AJAX загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер магазина загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер платежей загружен
+[2025-12-06 14:59:46] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Шорткоды зарегистрированы
+[2025-12-06 14:59:46] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Открыта вкладка настроек: db [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Попытка загрузить класс для вкладки db: GSC_View_Admin_Tab_DB [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Класс: GSC_View_Admin_Tab_DB [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Класс GSC_View_Admin_Tab_DB существует [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Метод render существует в классе GSC_View_Admin_Tab_DB [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Автозагрузчик инициализирован
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Инициализация плагина GSConnector
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Загрузка компонентов плагина
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Контроллер логов загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Контроллер ассетов загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Контроллер админки загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Контроллер AJAX загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Контроллер магазина загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Контроллер платежей загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Шорткоды зарегистрированы
+[2025-12-06 14:59:49] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=6dcb3143e7&1765033189656] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Автозагрузчик инициализирован
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Инициализация плагина GSConnector
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Загрузка компонентов плагина
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Контроллер логов загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Контроллер ассетов загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Контроллер админки загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Контроллер AJAX загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Контроллер магазина загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Контроллер платежей загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Шорткоды зарегистрированы
+[2025-12-06 14:59:49] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=6dcb3143e7&1765033189719] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Автозагрузчик инициализирован
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Инициализация плагина GSConnector
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Загрузка компонентов плагина
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Контроллер логов загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Контроллер ассетов загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Контроллер админки загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Контроллер AJAX загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Контроллер магазина загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Контроллер платежей загружен
+[2025-12-06 14:59:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Шорткоды зарегистрированы
+[2025-12-06 14:59:49] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=6dcb3143e7&1765033189769] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Автозагрузчик инициализирован
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация плагина GSConnector
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Загрузка компонентов плагина
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер логов загружен
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер ассетов загружен
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер админки загружен
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер AJAX загружен
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер магазина загружен
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер платежей загружен
+[2025-12-06 14:59:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Шорткоды зарегистрированы
+[2025-12-06 14:59:52] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 14:59:52] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] AJAX: Тестирование подключения к БД - START [Context: {"user_id":1,"ip":"172.19.0.1","db_enabled":"0","controller":"GSC_Controller_AJAX","method":"test_db_connection"}]
+[2025-12-06 14:59:52] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД через AJAX [Context: {"controller":"GSC_Controller_AJAX","method":"test_db_connection"}]
+[2025-12-06 14:59:52] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация подключения к БД - START
+[2025-12-06 14:59:52] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Подключение к БД отключено в настройках
+[2025-12-06 14:59:52] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация подключения к БД - END
+[2025-12-06 14:59:52] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД сервера - START
+[2025-12-06 14:59:52] [ERROR] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Расширение PDO_MySQL не установлено на сервере
+[2025-12-06 14:59:52] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД сервера - END (PDO_MySQL не установлено)
+[2025-12-06 14:59:52] [ERROR] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Расширение PDO_MySQL не установлено на сервере [Context: {"controller":"GSC_Controller_AJAX","method":"test_db_connection"}]
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Автозагрузчик инициализирован
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация плагина GSConnector
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Загрузка компонентов плагина
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер логов загружен
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер ассетов загружен
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер админки загружен
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер AJAX загружен
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер магазина загружен
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер платежей загружен
+[2025-12-06 15:00:50] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Шорткоды зарегистрированы
+[2025-12-06 15:00:50] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Автозагрузчик инициализирован
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация плагина GSConnector
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Загрузка компонентов плагина
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер логов загружен
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер ассетов загружен
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер админки загружен
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер AJAX загружен
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер магазина загружен
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер платежей загружен
+[2025-12-06 15:02:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Шорткоды зарегистрированы
+[2025-12-06 15:02:51] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Автозагрузчик инициализирован
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация плагина GSConnector
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Загрузка компонентов плагина
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер логов загружен
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер ассетов загружен
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер админки загружен
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер AJAX загружен
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер магазина загружен
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер платежей загружен
+[2025-12-06 15:04:51] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Шорткоды зарегистрированы
+[2025-12-06 15:04:51] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Автозагрузчик инициализирован
+[2025-12-06 15:07:41] [SUCCESS] [IP: 127.0.0.1] [UserID: 0] [URI: ] Плагин активирован
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Автозагрузчик инициализирован
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Инициализация плагина GSConnector
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Загрузка компонентов плагина
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер логов загружен
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер ассетов загружен
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер админки загружен
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер AJAX загружен
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер магазина загружен
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Контроллер платежей загружен
+[2025-12-06 15:07:41] [INFO] [IP: 127.0.0.1] [UserID: 0] [URI: ] Шорткоды зарегистрированы
+[2025-12-06 15:07:41] [SUCCESS] [IP: 127.0.0.1] [UserID: 0] [URI: ] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Автозагрузчик инициализирован
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Инициализация плагина GSConnector
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Загрузка компонентов плагина
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер логов загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер ассетов загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер админки загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер AJAX загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер магазина загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер платежей загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Шорткоды зарегистрированы
+[2025-12-06 15:07:47] [SUCCESS] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Автозагрузчик инициализирован
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Инициализация плагина GSConnector
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Загрузка компонентов плагина
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер логов загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер ассетов загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер админки загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер AJAX загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер магазина загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Контроллер платежей загружен
+[2025-12-06 15:07:47] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Шорткоды зарегистрированы
+[2025-12-06 15:07:47] [SUCCESS] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwp-admin%2Fadmin.php%3Fpage%3Dgsc-settings&reauth=1] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Автозагрузчик инициализирован
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Инициализация плагина GSConnector
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Загрузка компонентов плагина
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер логов загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер ассетов загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер админки загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер AJAX загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер магазина загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Контроллер платежей загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Шорткоды зарегистрированы
+[2025-12-06 15:07:49] [SUCCESS] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-login.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings] Автозагрузчик инициализирован
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Инициализация плагина GSConnector
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Загрузка компонентов плагина
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер логов загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер ассетов загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер админки загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер AJAX загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер магазина загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Контроллер платежей загружен
+[2025-12-06 15:07:49] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Шорткоды зарегистрированы
+[2025-12-06 15:07:49] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Открыта вкладка настроек: db [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Попытка загрузить класс для вкладки db: GSC_View_Admin_Tab_DB [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Класс: GSC_View_Admin_Tab_DB [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Класс GSC_View_Admin_Tab_DB существует [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings] Метод render существует в классе GSC_View_Admin_Tab_DB [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Автозагрузчик инициализирован
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Инициализация плагина GSConnector
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Загрузка компонентов плагина
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Контроллер логов загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Контроллер ассетов загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Контроллер админки загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Контроллер AJAX загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Контроллер магазина загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Контроллер платежей загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Шорткоды зарегистрированы
+[2025-12-06 15:07:52] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=132a2ba73a&1765033672884] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Автозагрузчик инициализирован
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Инициализация плагина GSConnector
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Загрузка компонентов плагина
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Контроллер логов загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Контроллер ассетов загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Контроллер админки загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Контроллер AJAX загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Контроллер магазина загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Контроллер платежей загружен
+[2025-12-06 15:07:52] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Шорткоды зарегистрированы
+[2025-12-06 15:07:52] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=132a2ba73a&1765033672959] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Автозагрузчик инициализирован
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Инициализация плагина GSConnector
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Загрузка компонентов плагина
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Контроллер логов загружен
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Контроллер ассетов загружен
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Контроллер админки загружен
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Контроллер AJAX загружен
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Контроллер магазина загружен
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Контроллер платежей загружен
+[2025-12-06 15:07:53] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Шорткоды зарегистрированы
+[2025-12-06 15:07:53] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=132a2ba73a&1765033673012] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Автозагрузчик инициализирован
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация плагина GSConnector
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Загрузка компонентов плагина
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер логов загружен
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер ассетов загружен
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер админки загружен
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер AJAX загружен
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер магазина загружен
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер платежей загружен
+[2025-12-06 15:07:55] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Шорткоды зарегистрированы
+[2025-12-06 15:07:55] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:07:55] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] AJAX: Тестирование подключения к БД - START [Context: {"user_id":1,"ip":"172.19.0.1","db_enabled":"0","controller":"GSC_Controller_AJAX","method":"test_db_connection"}]
+[2025-12-06 15:07:55] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД через AJAX [Context: {"controller":"GSC_Controller_AJAX","method":"test_db_connection"}]
+[2025-12-06 15:07:55] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация подключения к БД - START
+[2025-12-06 15:07:55] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Подключение к БД отключено в настройках
+[2025-12-06 15:07:55] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация подключения к БД - END
+[2025-12-06 15:07:55] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД сервера - START
+[2025-12-06 15:07:55] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Настройки подключения к БД [Context: {"host":false,"database":false,"user":false,"port":"3306","charset":"utf8mb4","db_enabled":"0"}]
+[2025-12-06 15:07:55] [ERROR] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Не заполнены настройки подключения к БД [Context: {"host_set":false,"db_set":false,"user_set":false}]
+[2025-12-06 15:07:55] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД сервера - END (не заполнены настройки)
+[2025-12-06 15:07:55] [ERROR] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Не заполнены настройки подключения к БД [Context: {"controller":"GSC_Controller_AJAX","method":"test_db_connection"}]
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/options.php] Автозагрузчик инициализирован
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Инициализация плагина GSConnector
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Загрузка компонентов плагина
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Контроллер логов загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Контроллер ассетов загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Контроллер админки загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Контроллер AJAX загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Контроллер магазина загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Контроллер платежей загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Шорткоды зарегистрированы
+[2025-12-06 15:08:10] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/options.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Автозагрузчик инициализирован
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Инициализация плагина GSConnector
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Загрузка компонентов плагина
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Контроллер логов загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Контроллер ассетов загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Контроллер админки загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Контроллер AJAX загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Контроллер регистрации загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Контроллер магазина загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Контроллер платежей загружен
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Шорткоды зарегистрированы
+[2025-12-06 15:08:10] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Открыта вкладка настроек: db [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Попытка загрузить класс для вкладки db: GSC_View_Admin_Tab_DB [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Класс: GSC_View_Admin_Tab_DB [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Класс GSC_View_Admin_Tab_DB существует [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:08:10] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin.php?page=gsc-settings&settings-updated=true] Метод render существует в классе GSC_View_Admin_Tab_DB [Context: {"controller":"GSC_Controller_Admin","method":"settings_page"}]
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Автозагрузчик инициализирован
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация плагина GSConnector
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Загрузка компонентов плагина
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер логов загружен
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер ассетов загружен
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер админки загружен
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер AJAX загружен
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер регистрации загружен
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер магазина загружен
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер платежей загружен
+[2025-12-06 15:08:12] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Шорткоды зарегистрированы
+[2025-12-06 15:08:12] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] AJAX: Тестирование подключения к БД - START [Context: {"user_id":1,"ip":"172.19.0.1","db_enabled":"1","controller":"GSC_Controller_AJAX","method":"test_db_connection"}]
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД через AJAX [Context: {"controller":"GSC_Controller_AJAX","method":"test_db_connection"}]
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация подключения к БД - START
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД сервера - START
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Настройки подключения к БД [Context: {"host":"localhost","database":"game_db","user":"game_user","port":"3306","charset":"utf8mb4","db_enabled":"1"}]
+[2025-12-06 15:08:12] [ERROR] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Ошибка подключения к БД: No such file or directory [Context: {"code":2002,"file":"/var/www/html/wp-content/plugins/BestwayGSConnector/includes/model/class-model-db.php","line":65,"host":"localhost","db":"game_db","user":"game_user","port":"3306"}]
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД сервера - END (ошибка)
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация подключения к БД - END
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД сервера - START
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Настройки подключения к БД [Context: {"host":"localhost","database":"game_db","user":"game_user","port":"3306","charset":"utf8mb4","db_enabled":"1"}]
+[2025-12-06 15:08:12] [ERROR] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Ошибка подключения к БД: No such file or directory [Context: {"code":2002,"file":"/var/www/html/wp-content/plugins/BestwayGSConnector/includes/model/class-model-db.php","line":65,"host":"localhost","db":"game_db","user":"game_user","port":"3306"}]
+[2025-12-06 15:08:12] [DATABASE] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Тестирование подключения к БД сервера - END (ошибка)
+[2025-12-06 15:08:12] [ERROR] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Ошибка подключения к БД: No such file or directory<br>Ошибка подключения к БД: No such file or directory [Context: {"controller":"GSC_Controller_AJAX","method":"test_db_connection"}]
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Автозагрузчик инициализирован
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация плагина GSConnector
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Загрузка компонентов плагина
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер логов загружен
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер ассетов загружен
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер админки загружен
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер AJAX загружен
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер регистрации загружен
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер магазина загружен
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер платежей загружен
+[2025-12-06 15:09:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Шорткоды зарегистрированы
+[2025-12-06 15:09:11] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Плагин GSConnector успешно инициализирован
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 0] [URI: /wp-admin/admin-ajax.php] Автозагрузчик инициализирован
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Инициализация плагина GSConnector
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Загрузка компонентов плагина
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер логов загружен
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер ассетов загружен
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер админки загружен
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер AJAX загружен
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер регистрации загружен
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер магазина загружен
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Контроллер платежей загружен
+[2025-12-06 15:10:11] [INFO] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Шорткоды зарегистрированы
+[2025-12-06 15:10:11] [SUCCESS] [IP: 172.19.0.1] [UserID: 1] [URI: /wp-admin/admin-ajax.php] Плагин GSConnector успешно инициализирован

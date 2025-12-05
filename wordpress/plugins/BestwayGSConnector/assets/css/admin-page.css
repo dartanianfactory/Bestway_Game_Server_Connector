@@ -1,0 +1,41 @@
+.gsc-settings .nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.gsc-settings .card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.gsc-settings .card h2 {
+    margin-top: 0;
+}
+
+.gsc-columns-list {
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: #f9f9f9;
+}
+
+.column-item {
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+}
+
+.column-item:last-child {
+    border-bottom: none;
+}
+
+.status-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+}

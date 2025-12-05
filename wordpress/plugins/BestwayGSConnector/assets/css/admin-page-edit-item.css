@@ -1,0 +1,187 @@
+.gsc-image-uploader {
+    max-width: 400px;
+}
+
+.upload-buttons .button {
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.file-upload {
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+    margin-top: 10px;
+}
+
+.gsc-image-url {
+    background: #f7f7f7;
+    border-color: #ddd;
+}
+
+.image-preview img {
+    border: 1px solid #ddd;
+    padding: 5px;
+    background: white;
+}
+
+.form-table th {
+    width: 200px;
+}
+
+.form-table .regular-text,
+.form-table .large-text,
+.form-table .small-text {
+    width: 100%;
+    max-width: 400px;
+}
+
+.form-table .datepicker {
+    width: 150px;
+}
+
+.form-table .description {
+    color: #666;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.notice-error {
+    border-left-color: #dc3232;
+}
+
+.notice-error p {
+    margin: 0.5em 0;
+}
+
+.submit {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.button-link-delete {
+    color: #a00;
+}
+
+.button-link-delete:hover {
+    color: #dc3232;
+    border-color: #dc3232;
+}
+
+/* Стили для формы редактирования */
+.gsc-edit-item-form {
+    max-width: 800px;
+}
+
+.gsc-image-preview-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin: 10px 0;
+}
+
+.gsc-image-preview {
+    flex-shrink: 0;
+}
+
+.gsc-image-preview img {
+    max-width: 200px;
+    max-height: 200px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    background: #f9f9f9;
+}
+
+.gsc-image-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+/* Стили для цен */
+.gsc-price-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.gsc-price-container input {
+    width: 150px;
+}
+
+.gsc-sale-price-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 5px;
+    border: 1px solid #e5e5e5;
+}
+
+.gsc-sale-price-container label {
+    font-weight: 600;
+    color: #d63638;
+}
+
+/* Стили для дат скидок */
+.gsc-sale-dates {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.gsc-sale-date-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.gsc-sale-date-group label {
+    margin-bottom: 5px;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+/* Статус предмета */
+.gsc-status-selector {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.gsc-status-option {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.gsc-status-option input[type="radio"] {
+    margin: 0;
+}
+
+.gsc-status-badge-preview {
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+    .gsc-sale-dates {
+        grid-template-columns: 1fr;
+    }
+    
+    .gsc-status-selector {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .gsc-image-preview-container {
+        flex-direction: column;
+    }
+}
