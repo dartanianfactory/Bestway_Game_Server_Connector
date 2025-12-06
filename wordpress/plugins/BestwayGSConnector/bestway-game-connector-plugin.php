@@ -3,7 +3,7 @@
  * Plugin Name: Bestway Game Connector
  * Plugin URI: https://github.com/dartanianfactory/Bestway_Game_Server_Connector
  * Description: Интеграция регистрации на сайте с игровым сервером и система магазина
- * Version: 0.1.1
+ * Version: 0.1.3
  * Author: Roman Agafonov
  * License: GPL v2 or later
  */
@@ -11,7 +11,7 @@
 if (!defined('ABSPATH'))
     exit;
 
-define('GSC_VERSION', '0.1.1');
+define('GSC_VERSION', '0.1.3');
 define('GSC_PATH', plugin_dir_path(__FILE__));
 define('GSC_URL', plugin_dir_url(__FILE__));
 define('GSC_TABLE_DONATE_ITEMS', 'gsc_donate_items');
